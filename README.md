@@ -1,4 +1,4 @@
 Tic-Tac-Toe-console_version
 ===========================
 
-Simple console Tic-Tac-Toe game (player vs computer)
+ console Tic-Tac-Toe game (player vs computer)
